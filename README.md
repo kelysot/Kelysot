@@ -1,4 +1,4 @@
-### Hi there, I'm [Kelt Sotsky](https://github.com/kelysot) 👋
+### Hi there, I'm [Kely Sotsky](https://github.com/kelysot) 👋
 
 ### 👩‍💼 &nbsp;About Me ###
 - 👩‍🎓 I’m currently: 3rd year Computer Science student (B.Sc.). 👩‍💻
