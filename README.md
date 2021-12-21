@@ -8,10 +8,10 @@
 ### 🛠 &nbsp;Tech Stack ###
 - Coding: &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C++)
   ![CSharp](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp&logoColor=6d4a80)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat-square&logo=html5)
   ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat-square&logo=css3)
 
