@@ -2,7 +2,7 @@
 
 ## 👩‍💼 &nbsp;About Me 
 - 👩‍🎓 I’m currently: 3rd year Computer Science student (B.Sc.). 👩‍💻
-- 🏢 Looking for a part time job. 💼
+- 🏢 Looking for a job. 💼
 - 💻 I’m looking to collaborate with other content creators. 👫
 
 ## 🛠 &nbsp;Tech Stack 
