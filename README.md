@@ -1,15 +1,16 @@
 ### Hi there, I'm [Kely Sotsky](https://github.com/kelysot) 👋
 
 ## 👩‍💼 &nbsp;About Me 
-- 👩‍🎓 I’m currently: 3rd year Computer Science student (B.Sc.). 👩‍💻
+- 👩‍🎓 B.Sc. in Computer Science 👩‍💻
 - 🏢 Looking for a job. 💼
 - 💻 I’m looking to collaborate with other content creators. 👫
 
 ## 🛠 &nbsp;Tech Stack 
 - Coding: &nbsp;
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![NodeJS](https://img.shields.io/badge/-node.js-333333?style=flat&logo=node.js)
+  ![Swift](https://img.shields.io/badge/-swift-333333?style=flat&logo=swift)
   ![CSharp](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp&logoColor=6d4a80)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat-square&logo=html5)
   ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat-square&logo=css3)
@@ -20,6 +21,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=Visual%20Studio%20Code)
   ![IntelliJIDEA](https://img.shields.io/badge/-IntelliJIDEA-333333?style=flat&logo=IntelliJIDEA)
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=Android%20Studio)
+  ![Xcode](https://img.shields.io/badge/-Xcode-333333?style=flat&logo=Xcode)
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=Visual%20Studio)
 
 - Database: &nbsp;
