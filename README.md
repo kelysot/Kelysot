@@ -1,8 +1,8 @@
-### Hi there, I'm [Kely Sotsky](https://github.com/kelysot) 👋
+### Hi there, I'm [Kely Sotsky](https://www.linkedin.com/in/kely-sotsky/) 👋
 
 ## 👩‍💼 &nbsp;About Me 
 - 👩‍🎓 B.Sc. in Computer Science 👩‍💻
-- 🏢 Looking for a job. 💼
+- 🏢 Looking for a Software Developer job. 💼
 - 💻 I’m looking to collaborate with other content creators. 👫
 
 ## 🛠 &nbsp;Tech Stack 
